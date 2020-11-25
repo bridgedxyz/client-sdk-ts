@@ -1,0 +1,5 @@
+export const WEB_HOME_URL = "https://bridged.xyz"
+export const WEB_ACCOUNTS_URL = "https://accounts.bridged.xyz"
+export const WEB_CONSOLE_URL = "https://console.bridged.xyz"
+export const WEB_REFLECT_URL = "https://reflect-ui.com"
+export const WEB_CLICKCLICK_URL = "https://clickclick.design"

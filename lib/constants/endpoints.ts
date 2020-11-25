@@ -1,0 +1,1 @@
+export const ENDPNT_SCENE_STORE_SCENES = "/scenes"
